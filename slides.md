@@ -1,3 +1,17 @@
+<script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+window.$docsify = {
+  // ...
+  pagination: {
+    previousText: '上一章节',
+    // or
+    nextText: {
+      '/en/': 'NEXT',
+      '/': '下一章节'
+    },
+    crossChapter: true,
+    crossChapterText: true,
+  },
+}
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://blog.prototypr.io/defining-usability-e7bf42e8abd0">Defining usability</a>
 
 # Le Big Data : Enjeux et Applications
