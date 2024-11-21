@@ -5,7 +5,7 @@
 Le Big Data en brefff
 
 <!-- slide:break-50 -->
-
+<!-- slide:break -->
 - Le monde produit 2.5 quintillions d'octets de données chaque jour
 - 90% des données mondiales ont été créées ces deux dernières années
 - Enjeu majeur pour les entreprises et les États
