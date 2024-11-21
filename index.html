@@ -1,75 +1,13 @@
-// index.html
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>My Presentation</title>
-  
-  <!-- Theme: Simple -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
-
-  <style>
-    :root {
-      --content-max-width: 100%;
-    }
-  </style>
-</head>
-<body class="close">
-  <div id="app"></div>
-
-  <script>
+<div id="app"></div>
+<script>
     window.$docsify = {
-      name: 'My Presentation',
-      repo: '',
-      loadSidebar: true,
-      pagination: {
-        previousText: 'Previous',
-        nextText: 'Next',
-        crossChapter: true,
-        crossChapterText: true,
-      }
+        name: 'Le Big Data',
+        loadSidebar: true,
     }
-  </script>
-
-  <!-- Required -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-  
-  <!-- Plugins -->
-  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
-  <script src="//unpkg.com/docsify-slides/dist/docsify-slides.min.js"></script>
-</body>
+</script>
+<script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+<script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+<script src="//unpkg.com/docsify-slides/dist/docsify-slides.min.js"></script>
 </html>
-
-// presentation.md
-# My Presentation
-
-## First Slide
-
-This content appears on the left side
-
-<!-- slide:break-60 -->
-
-This content appears on the right side, with the left side taking up 60% of the width
-
-## Second Slide
-
-Here's some content on the left
-
-<!-- slide:break -->
-
-And here's content on the right with a 50/50 split (default)
-
-## Third Slide
-
-Let's try a different split with an image on the left
-
-<!-- slide:break-40 -->
-
-And more content on the right side, with the left side only taking 40% of the width
-
-// _sidebar.md
-* [Start](/)
-* [Section 1](#first-slide)
-* [Section 2](#second-slide)
-* [Section 3](#third-slide)
