@@ -1,5 +1,3 @@
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://blog.prototypr.io/defining-usability-e7bf42e8abd0">Defining usability</a>
-
 # Le Big Data : Enjeux et Applications
 ## Comprendre les données à l'ère numérique
 
