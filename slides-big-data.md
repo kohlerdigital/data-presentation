@@ -1,14 +1,14 @@
 # Le Big Data : Enjeux et Applications
 ## Comprendre les données à l'ère numérique
 
----
+<!-- slide:break-60 -->
 
 ## Introduction
 - Le monde produit 2,5 quintillions d'octets de données chaque jour
 - 90% des données mondiales ont été créées ces deux dernières années
 - Enjeu majeur pour les entreprises et les États
 
----
+<!-- slide:break-60 -->
 
 ## Qu'est-ce qu'une donnée ?
 ### "Une donnée est la représentation d'une information sous forme conventionnelle destinée à faciliter son traitement"
